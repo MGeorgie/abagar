@@ -1,8 +1,8 @@
 ---
 bg: "drapeaux.jpg"
 layout: page
-title: "About"
-crawlertitle: "About Abagar"
+title: "À Propos"
+crawlertitle: "Abagar"
 permalink: /about/
 summary: "Objectifs de l'association"
 active: about
